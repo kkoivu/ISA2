@@ -1,17 +1,17 @@
-﻿
+﻿ 
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.329
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MVCKodutöö", "MVCKodutöö\MVCKodutöö.csproj", "{B013E838-789B-4842-85D2-6800B18D9D8C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MVCKodutöö", "Week4\MVCKodutöö\MVCKodutöö.csproj", "{B013E838-789B-4842-85D2-6800B18D9D8C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Facade", "Facade\Facade.csproj", "{8CAB30A0-FC15-4B3B-AE31-C0D31A746B50}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Facade", "Week4\Facade\Facade.csproj", "{8CAB30A0-FC15-4B3B-AE31-C0D31A746B50}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "Core\Core.csproj", "{86D25292-C83F-42E3-98D6-627EDD20898F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "Week4\Core\Core.csproj", "{86D25292-C83F-42E3-98D6-627EDD20898F}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Infra", "Infra\Infra.csproj", "{90B112A3-14EE-45D6-8827-BC14633FEE27}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Infra", "Week4\Infra\Infra.csproj", "{90B112A3-14EE-45D6-8827-BC14633FEE27}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{00BFD8F7-89E7-49AB-A7BF-B6A5D8564B69}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Week4\Test\Test.csproj", "{00BFD8F7-89E7-49AB-A7BF-B6A5D8564B69}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
